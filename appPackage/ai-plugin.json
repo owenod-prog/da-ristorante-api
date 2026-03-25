@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/copilot/plugin/v2.1/schema.json",
+  "schema_version": "v2.1",
+  "namespace": "ilristorante",
+  "name_for_human": "Il Ristorante",
+  "description_for_human": "See the today's menu and place orders",
+  "description_for_model": "Plugin for getting the today's menu, optionally filtered by course and allergens, and placing orders",
+  "functions": [ 
+  ],
+  "runtimes": [
+  ],
+  "capabilities": {
+    "localization": {},
+    "conversation_starters": []
+  }
+}
